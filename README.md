@@ -13,5 +13,6 @@
 - 如果有特殊需要，可以修改Downloader类实现断点续传功能。
 
 ## DEMO地址
-* 「国外git」GitHub：[coming soom](coming soom)
+* 「国外git」GitHub：[https://github.com/jinglikeblue/UnityDownloadPlus.git](https://github.com/jinglikeblue/UnityDownloadPlus.git)
 * 「国内git」Coding：[https://git.coding.net/jinglikeblue/WebDownloadDemo.git](https://git.coding.net/jinglikeblue/WebDownloadDemo.git)
+
